@@ -14,5 +14,8 @@
   "scripts": {
     "start": "lineman run",
     "test": "lineman spec-ci"
+  },
+    "engines": {
+    "node": "0.10.21"
   }
 }
